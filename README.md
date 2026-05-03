@@ -4,8 +4,7 @@ Live Global Commercial Flights, provided through OpenSky-Network.org’s Python 
 
 Step 1: Download the python API for open sky network , copy these two lines into your terminal
 
-git clone https://github.com/openskynetwork/opensky-api.git
-pip install -e opensky-api/python
+git clone https://github.com/openskynetwork/opensky-api.git                                                                  pip install -e opensky-api/python
 
 Step 2. Run code! You can click and drag the globe, scroll wheel to zoom in and out. Hover_text shows flight information as you move the cursor over individual flights.
 
